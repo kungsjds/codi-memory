@@ -1,0 +1,20 @@
+body {
+    background-color: #000;
+}
+
+h3, #result {
+    color: #FFF;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    width: 460px;
+    height: 300px;
+}
+
+.grid img {
+    margin: 7px;
+    box-shadow: 1px 1px 7px #9a2aff;
+    transition: 250ms;
+}
